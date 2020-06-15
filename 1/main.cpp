@@ -16,6 +16,7 @@ struct Category {
     Category () {
         product = "";
         category_of_product = "";
+        
     };
     Category (const string& product, const string& category) {
         this->product = product;
