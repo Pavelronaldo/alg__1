@@ -1,0 +1,10 @@
+vegetables cucumber
+berries cherry
+fruits apple
+fruits watermelon
+berries tomato
+fruits melon
+berries strawberry
+vegetables mushrooms
+vegetables potato
+vegetables hazelnut
